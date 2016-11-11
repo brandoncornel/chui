@@ -9,5 +9,11 @@
   },
   "permissions": [
     "tabs"
-  ]
+  ],
+  "background": {
+    "scripts": [
+      "popup.js"
+    ],
+    "persistent": true
+  }
 }
