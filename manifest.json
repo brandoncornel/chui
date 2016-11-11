@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Chui",
+  "description": "Stop procrastinating",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "media/icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
